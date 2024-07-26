@@ -30,7 +30,7 @@ Eventos
 
 El código establece eventos para los botones de cifrado, descifrado y copia al portapapeles. Cuando se hace clic en cada botón, se llama a la función correspondiente.
 
-Ejemplos de uso
+Ejemplos de uso:
 
 El usuario ingresa un mensaje en el área de entrada y hace clic en el botón "Cifrar". El texto cifrado se muestra en el área de salida.
 El usuario hace clic en el botón "Descifrar" para descifrar el texto cifrado.
